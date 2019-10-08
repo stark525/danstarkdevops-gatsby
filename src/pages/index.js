@@ -81,9 +81,9 @@ class Index extends React.Component {
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
-                <h3>Cloud Deployment</h3>
+                <h3>Increase Developer Velocity</h3>
                 <p>
-                  Deploy or optimize your application in line with the latest secure and cost-effective AWS best practices.
+                  I love working to reduce development pain points, leading to happier, more productive developers.
                 </p>
               </li>
             </ul>
@@ -105,39 +105,9 @@ class Index extends React.Component {
                 I build relationships based on my work.
               </p>
             </header>
-            <ul className="statistics">
-              <li className="style1">
-                <span className="icon fa-code-fork"></span>
-                <strong>5,120</strong> Etiam
-              </li>
-              <li className="style2">
-                <span className="icon fa-folder-open-o"></span>
-                <strong>8,192</strong> Magna
-              </li>
-              <li className="style3">
-                <span className="icon fa-signal"></span>
-                <strong>2,048</strong> Tempus
-              </li>
-              <li className="style4">
-                <span className="icon fa-laptop"></span>
-                <strong>4,096</strong> Aliquam
-              </li>
-              <li className="style5">
-                <span className="icon fa-diamond"></span>
-                <strong>1,024</strong> Nullam
-              </li>
-            </ul>
-            <p className="content">
-              Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
-              eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum
-              ac arcu sit amet, fermentum pellentesque et purus. Integer maximus
-              varius lorem, sed convallis diam accumsan sed. Etiam porttitor
-              placerat sapien, sed eleifend a enim pulvinar faucibus semper quis
-              ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer
-              eget purus nec nulla mattis et accumsan ut magna libero. Morbi
-              auctor iaculis porttitor. Sed ut magna ac risus et hendrerit
-              scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras
-              eu ornare dui curabitur lacinia.
+            <p className="main special">
+            <i>Dan is great! He jumped right in and took our project from failing to up and running in no time! Not only did he get us off the ground, he then built out a roadmap for us to get the most out of our AWS investment through best practices and automation. In addition to his excellent technical work, Dan shared his knowledge and documented everything making sure that we had what we needed to succeed. After seeing him solve problems and deliver results so fast I started to call him “Super Dan”!</i>
+            <br /><br /><b>- Director of Platform Development, FinTech Startup</b>
             </p>
             <footer className="major">
               <ul className="actions">
@@ -152,12 +122,10 @@ class Index extends React.Component {
 
           <section id="cta" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
-              <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
-                <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
-              </p>
+              <h2>First Steps</h2>
+              <ul>
+                I only work on projects that are a mutual fit where I can deliver value. I prefer to start with an initial phone or video chat to introduce your company and describe scope of work and budget. Then, I'll provide actionable recommendations for a small fixed price. We'll negotiate a fixed price or hourly rate, as well as finialize scope.
+              </ul>
             </header>
             <footer className="major">
               <ul className="actions">

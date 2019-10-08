@@ -22,7 +22,7 @@ const Nav = (props) => (
             </li>
             <li>
                 <Scroll type="id" element="cta">
-                    <a href="#">Why do I need "DevOps"?</a>
+                    <a href="#">First Steps</a>
                 </Scroll>
             </li>
         </Scrollspy>
