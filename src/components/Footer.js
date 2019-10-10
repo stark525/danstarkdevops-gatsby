@@ -29,12 +29,24 @@ const Footer = props => (
         </dd>
       </dl>
       <ul className="icons">
+      <li>
+          <a
+            href="https://www.linkedin.com/in/dan-stark-43030a64/" className="icon fa-linkedin alt">
+            <span className="label">LinkedIn</span>
+          </a>
+        </li>
         <li>
           <a
             href="https://twitter.com/danstarkdevops"
             className="icon fa-twitter alt"
           >
             <span className="label">Twitter</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://github.com/stark525" className="icon fa-github alt">
+            <span className="label">GitHub</span>
           </a>
         </li>
         <li>
@@ -45,12 +57,6 @@ const Footer = props => (
         <li>
           <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2018-11-26&ci=AWS00375547" className="icon fa-amazon alt">
             <span className="label">AWS</span>
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://github.com/stark525" className="icon fa-github alt">
-            <span className="label">GitHub</span>
           </a>
         </li>
       </ul>
