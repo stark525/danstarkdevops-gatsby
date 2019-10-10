@@ -87,15 +87,6 @@ class Index extends React.Component {
                 </p>
               </li>
             </ul>
-            <footer className="major">
-              <ul className="actions">
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
-                </li>
-              </ul>
-            </footer>
           </section>
 
           <section id="second" className="main special">
