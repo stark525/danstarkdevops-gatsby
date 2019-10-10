@@ -105,11 +105,11 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>First Steps</h2>
-              <ol>
-                <li>An initial phone or video chat to introduce your company and describe scope of work and budget.</li>
-                <li>I'll provide actionable recommendations for a small fixed price.</li>
-                <li>We'll negotiate a fixed price or hourly rate, as well as finialize scope.</li>
-              </ol>
+              <p>
+                1. An initial phone or video chat to introduce your company and describe scope of work and budget.<br />
+                2. I'll provide actionable recommendations for a small fixed price.<br />
+                3. We'll negotiate a fixed price or hourly rate, as well as finialize scope.<br />
+              </p>
             </header>
             <footer className="major">
               <ul className="actions">
