@@ -109,15 +109,6 @@ class Index extends React.Component {
             <i>Dan is great! He jumped right in and took our project from failing to up and running in no time! Not only did he get us off the ground, he then built out a roadmap for us to get the most out of our AWS investment through best practices and automation. In addition to his excellent technical work, Dan shared his knowledge and documented everything making sure that we had what we needed to succeed. After seeing him solve problems and deliver results so fast I started to call him “Super Dan”!</i>
             <br /><b>- Director of Platform Development, FinTech Startup</b>
             </p>
-            <footer className="major">
-              <ul className="actions">
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
-                </li>
-              </ul>
-            </footer>
           </section>
 
           <section id="cta" className="main special">
@@ -132,9 +123,9 @@ class Index extends React.Component {
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button special">
+                  <a href="mailto:danstarkdevops@gmail.com?Subject=I%20would%20like%20to%20discuss%20a%20project" className="button special">
                     Get Started
-                  </Link>
+                  </a>
                 </li>
                 <li>
                   <Link to="/generic" className="button">
