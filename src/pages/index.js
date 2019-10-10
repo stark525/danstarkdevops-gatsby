@@ -66,24 +66,24 @@ class Index extends React.Component {
             </header>
             <ul className="features">
               <li>
-                <span className="icon major style1 fa-code"></span>
+                <span className="icon major style1 fa-cloud"></span>
                 <h3>Cloud-Scale Architecture</h3>
                 <p>
-                I'll help you leverage the latest secure and cost-effective cloud architecture in line with the recommended best-practices.
+                Leverage the latest secure and cost-effective benefits of the cloud.
                 </p>
               </li>
               <li>
-                <span className="icon major style3 fa-copy"></span>
+                <span className="icon major style5 fa-check"></span>
                 <h3>Safe Deployments</h3>
                 <p>
                   I'll work with your team to ensure an effortless release process.
                 </p>
               </li>
               <li>
-                <span className="icon major style5 fa-diamond"></span>
+                <span className="icon major style3 fa-tachometer"></span>
                 <h3>Increase Developer Velocity</h3>
                 <p>
-                  I love working to reduce development pain points, leading to happier, more productive developers.
+                  Reduce development pain points, leading to happier, more productive developers.
                 </p>
               </li>
             </ul>
@@ -107,7 +107,7 @@ class Index extends React.Component {
             </header>
             <p className="main special">
             <i>Dan is great! He jumped right in and took our project from failing to up and running in no time! Not only did he get us off the ground, he then built out a roadmap for us to get the most out of our AWS investment through best practices and automation. In addition to his excellent technical work, Dan shared his knowledge and documented everything making sure that we had what we needed to succeed. After seeing him solve problems and deliver results so fast I started to call him “Super Dan”!</i>
-            <br /><br /><b>- Director of Platform Development, FinTech Startup</b>
+            <br /><b>- Director of Platform Development, FinTech Startup</b>
             </p>
             <footer className="major">
               <ul className="actions">
