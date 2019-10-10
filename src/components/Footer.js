@@ -4,12 +4,11 @@ import React from 'react'
 const Footer = props => (
   <footer id="footer">
     <section>
-      <h2>Aliquam sed mauris</h2>
+      <h2>Let's Connect!</h2>
       <p>
-        Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat
-        magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras
-        aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae
-        tincidunt odio.
+        The best way to reach me is via e-mail. I'll get back to you almost 
+        always the same day. I'm excited to learn about your project. I'll
+        work hard to deliver metrics-driven business value.
       </p>
       <ul className="actions">
         <li>
@@ -20,53 +19,44 @@ const Footer = props => (
       </ul>
     </section>
     <section>
-      <h2>Etiam feugiat</h2>
+      <h2>Contact</h2>
       <dl className="alt">
-        <dt>Address</dt>
-        <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
-        <dt>Phone</dt>
-        <dd>(000) 000-0000 x 0000</dd>
+        <dt>Location</dt>
+        <dd>Ambler &bull; Philadelphia Suburbs, PA &bull; USA</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">information@untitled.tld</a>
+          <a href="danstarkdevops@gmail.com">danstarkdevops@gmail.com</a>
         </dd>
       </dl>
       <ul className="icons">
         <li>
           <a
-            href="https://twitter.com/huntaroSan"
+            href="https://twitter.com/danstarkdevops"
             className="icon fa-twitter alt"
           >
             <span className="label">Twitter</span>
           </a>
         </li>
         <li>
-          <a href="https://codebushi.com" className="icon fa-facebook alt">
-            <span className="label">Facebook</span>
+          <a href="https://www.quora.com/profile/Dan-Stark-21" className="icon fa-quora alt">
+            <span className="label">Quora</span>
           </a>
         </li>
         <li>
-          <a href="https://codebushi.com" className="icon fa-instagram alt">
-            <span className="label">Instagram</span>
+          <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2018-11-26&ci=AWS00375547" className="icon fa-amazon alt">
+            <span className="label">AWS</span>
           </a>
         </li>
         <li>
           <a
-            href="https://github.com/codebushi/gatsby-starter-stellar"
-            className="icon fa-github alt"
-          >
+            href="https://github.com/stark525" className="icon fa-github alt">
             <span className="label">GitHub</span>
-          </a>
-        </li>
-        <li>
-          <a href="https://codebushi.com" className="icon fa-dribbble alt">
-            <span className="label">Dribbble</span>
           </a>
         </li>
       </ul>
     </section>
     <p className="copyright">
-      &copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.
+      &copy; Dan Stark DevOps LLC. Design: <a href="https://html5up.net">HTML5 UP</a>.
     </p>
   </footer>
 )
