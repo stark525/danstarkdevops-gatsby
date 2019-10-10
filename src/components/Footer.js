@@ -7,8 +7,8 @@ const Footer = props => (
       <h2>Let's Connect!</h2>
       <p>
         The best way to reach me is via e-mail. I'll get back to you almost 
-        always the same day. I'm excited to learn about your project. I'll
-        work hard to deliver metrics-driven business value.
+        always the same day. I'm excited to learn about your project, and I 
+        won't agree to work unless it's a mutual fit and I can deliver value.
       </p>
       <ul className="actions">
         <li>
@@ -25,7 +25,7 @@ const Footer = props => (
         <dd>Ambler &bull; Philadelphia Suburbs, PA &bull; USA</dd>
         <dt>Email</dt>
         <dd>
-          <a href="danstarkdevops@gmail.com">danstarkdevops@gmail.com</a>
+          <a href="mailto:danstarkdevops@gmail.com?Subject=Hello%20from%20your%20website!">danstarkdevops@gmail.com</a>
         </dd>
       </dl>
       <ul className="icons">

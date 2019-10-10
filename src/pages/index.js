@@ -102,7 +102,7 @@ class Index extends React.Component {
             <header className="major">
               <h2>References</h2>
               <p>
-                I build relationships based on my work.
+                Here's a nice quote:
               </p>
             </header>
             <p className="main special">
@@ -123,9 +123,11 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>First Steps</h2>
-              <ul>
-                I only work on projects that are a mutual fit where I can deliver value. I prefer to start with an initial phone or video chat to introduce your company and describe scope of work and budget. Then, I'll provide actionable recommendations for a small fixed price. We'll negotiate a fixed price or hourly rate, as well as finialize scope.
-              </ul>
+              <ol>
+                <li>An initial phone or video chat to introduce your company and describe scope of work and budget.</li>
+                <li>I'll provide actionable recommendations for a small fixed price.</li>
+                <li>We'll negotiate a fixed price or hourly rate, as well as finialize scope.</li>
+              </ol>
             </header>
             <footer className="major">
               <ul className="actions">
