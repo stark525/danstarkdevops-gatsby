@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import AboutMe from '../components/AboutMe'
+import HeaderAboutMe from '../components/HeaderAboutMe'
 import pic04 from '../assets/images/learnmore.jpg'
 
 class AboutMe extends React.Component {
