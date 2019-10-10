@@ -81,7 +81,7 @@ class Index extends React.Component {
               </li>
               <li>
                 <span className="icon major style3 fa-tachometer"></span>
-                <h3>Increase Developer Velocity</h3>
+                <h3>Increase Velocity</h3>
                 <p>
                   Reduce development pain points, leading to happier, more productive developers.
                 </p>
