@@ -5,6 +5,12 @@ module.exports = {
     description: "A personal consulting website built on Gatsby, based on Stellar by HTML5 UP"
   },
   plugins: [
+   {
+     resolve: `gatsby-plugin-s3`,
+     options: {
+         bucketName: 'danstarkdevops.com'
+     },
+ },
   {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
