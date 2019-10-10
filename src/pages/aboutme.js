@@ -2,16 +2,16 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import HeaderGeneric from '../components/HeaderGeneric'
+import AboutMe from '../components/AboutMe'
 import pic04 from '../assets/images/learnmore.jpg'
 
-class Generic extends React.Component {
+class AboutMe extends React.Component {
   render() {
 
     return (
       <Layout>
         <Helmet title="What is DevOps to me" />
-        <HeaderGeneric />
+        <AboutMe />
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic04} alt="" /></span>
@@ -27,4 +27,4 @@ class Generic extends React.Component {
   }
 }
 
-export default Generic
+export default AboutMe
