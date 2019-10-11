@@ -12,9 +12,9 @@ const Footer = props => (
       </p>
       <ul className="actions">
         <li>
-          <Link to="/generic" className="button">
-            Learn More
-          </Link>
+          <a href="mailto:danstarkdevops@gmail.com?Subject=I%20would%20like%20to%20discuss%20a%20project" className="button">
+            Email Me
+          </a>
         </li>
       </ul>
     </section>

@@ -118,11 +118,6 @@ class Index extends React.Component {
                     Get Started
                   </a>
                 </li>
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
-                </li>
               </ul>
             </footer>
           </section>
