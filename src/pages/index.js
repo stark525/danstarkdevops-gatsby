@@ -106,7 +106,7 @@ class Index extends React.Component {
             <header className="major">
               <h2>First Steps</h2>
               <ol>
-                <li>An initial phone or video chat to introduce your company and describe scope of work and budget. </li>
+                <li>An initial phone or video chat to describe scope of work and budget. </li>
                 <li>I'll provide actionable recommendations for a small fixed price. </li>
                 <li>We'll negotiate a fixed price or hourly rate, as well as finialize scope. </li>
               </ol>

@@ -50,6 +50,11 @@ const Footer = props => (
           </a>
         </li>
         <li>
+          <a href="https://stackoverflow.com/users/3818179/dan-stark" className="icon fa-stack-overflow alt">
+            <span className="label">StackOverflow</span>
+          </a>
+        </li>
+        <li>
           <a href="https://www.quora.com/profile/Dan-Stark-21" className="icon fa-quora alt">
             <span className="label">Quora</span>
           </a>
